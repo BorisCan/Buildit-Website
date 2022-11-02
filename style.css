@@ -176,10 +176,10 @@ input{
   .nav__menu {
     position: fixed;
     background-color: var(--btn-bg-clr);
-    top: -50%;
+    top: -70%;
     right: 0;
     width: 100%;
-    height: 50%;
+    height: 70%;
     padding: 5.5rem 0;
     transition: top .5s ease;
   }
